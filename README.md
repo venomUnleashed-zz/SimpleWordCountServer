@@ -24,7 +24,7 @@ Java 1.7
 
 Installation:
 ------
-1. Download and extract swcs-latest.tbz from releases folder.
+1. Download and extract swcs-latest.tbz from releases.
 2. Place your text documents in corpus folder.
 3. Run java -jar SimpleWordCountServer.jar {port} . This will start the server on given port. If unspecified the server starts at default port 10000.<br/> 
 example: java -jar SimpleWordCountServer.jar 10001 launches server at 100001 port.
